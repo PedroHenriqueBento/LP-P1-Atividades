@@ -1,4 +1,3 @@
-
 import time 
 #Leia um número (entrada padrão do input) e: Converta para inteiro; Exiba o dobro do valor.
 numero = float(input("Digite seu numero: "))
